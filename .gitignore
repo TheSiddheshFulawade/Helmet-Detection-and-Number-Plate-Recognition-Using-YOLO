@@ -20,8 +20,8 @@ Backend/rios_system/*.pt
 # Ignore model files
 *.pt
 
-# Ignore yolov9 folder
-yolov9/
+# Ignore yolov5 folder
+yolov5/
 
 # Distribution / packaging
 .Python
