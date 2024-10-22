@@ -9,16 +9,14 @@ __pycache__/
 *.so
 
 # Ignore specific model files
-Backend/rios_system/rios_yolov8.pt
-Backend/rios_system/urios_yolov8.pt
-Backend/rios_system/florios.pt
-Backend/rios_system/best.pt
+# Backend/rios_system/rios_yolov8.pt
+# Backend/rios_system/urios_yolov8.pt
+# Backend/rios_system/florios.pt
+# Backend/rios_system/best.pt
 
-# Ignore all .pt files in the rios_system directory (optional, use if you want to ignore all model files)
-Backend/rios_system/*.pt
 
 # Ignore model files
-*.pt
+# *.pt
 
 # Ignore yolov5 folder
 yolov5/
